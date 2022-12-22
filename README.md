@@ -2,4 +2,5 @@
 Website Design Using HTML And CSS
 
 # Output
-![Screenshot 2022-11-01 123423](https://user-images.githubusercontent.com/73373335/199177821-081eaa0d-3975-4f5a-8caa-53b93c8d96ad.png)
+![FireShot Capture 002 - Rashmi - Flipkart - 127 0 0 1](https://user-images.githubusercontent.com/73373335/209071847-4b53f382-6083-4f58-8404-c5781cbeb2e7.png)
+
